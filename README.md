@@ -1,4 +1,6 @@
 
+- My name is Alexia King (Lexe) 
+
 
 - 👀 I have a deep interest in Analytics and finding ways to optimize processes with the use of automation techniques.
 My projects have beeen a reflection of my projects I've completed while obtaining my Master's in Data Science and Business Analytics.
