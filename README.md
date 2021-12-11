@@ -1,6 +1,6 @@
 ### Welcome! 
 My name is Alexia King (Lexe). I have a deep interest in Analytics and exploring new technologies and developing software solutions and quick hacks.
-My projects have beeen a reflection of my projects I've completed while obtaining my Master's in Data Science and Business Analytics.
+My projects have beeen a reflection of my projects I've completed while obtaining my Master's in Data Science mixed with projects I like to complete in my free time.
 
 
 
@@ -27,7 +27,11 @@ My projects have beeen a reflection of my projects I've completed while obtainin
 ### Get in touch
 <a href="https://www.linkedin.com/in/alexia-king/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alexia%20King-blue?style=flat-square&logo=linkedin"> <a href="mailto:aking7980@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aking7980@gmail.com-blue?style=flat-square&logo=gmail"></a></a>
 
-![Profile views](https://gpvc.arturio.dev/Souravdey777)  
+
+
+### Or scan image to connect wih me on linked in 
+<img height="80" src="https://github.com/a-king12/Images/blob/main/LexQR.jpg">
+
 <!---
 a-king12/a-king12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
